@@ -29,11 +29,13 @@ console.log(element)
  sum = (a,b) => a+b;
  sub = (a,b) => a-b;
  mul = (a,b) => a*b;
+ div = (a,b) => a/b;
  
  c1 = avg(15,15);
  c2 = sum(7,8);
  c3 = sub(45,4);
  c4 = mul(5,7); 
-console.log(c1,c2,c3,c4);
+ c5 = div(40,5);
+console.log(c1,c2,c3,c4,c5);
 
 
