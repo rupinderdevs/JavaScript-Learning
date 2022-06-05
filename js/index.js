@@ -17,12 +17,12 @@ console.log(element)
 /* alert('Pause');
  console.log("Alert was Dismissed");  */
 
-// Function
-// function div(a,b){
-//     return (a/b);
-// }
-// c0 = div(35,5);
-// console.log(c0);
+Function
+function div(a,b){
+    return (a/b);
+}
+c0 = div(35,5);
+console.log('Division of 35/5 =', c0);
 
  //Arrow Function
  avg = (a,b) =>(a+b)/2;
